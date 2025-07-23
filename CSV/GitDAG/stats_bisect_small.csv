@@ -1,0 +1,16 @@
+File name,Nodes count,AVG Git,AVG Golden,AVG Golden used,AVG nodes differences between golden/git,nodes differences between golden/git
+git.age.tdag,3672,8.8569,8.8569,107.8131,0.0000,0
+git.answer.tdag,7241,11.9781,11.9781,684.1372,1.3720,520
+git.flink-cdc.tdag,6615,9.2817,9.2817,104.7195,0.0000,0
+git.fury.tdag,5834,9.0074,9.0074,88.9790,0.0000,0
+git.guacamole-server.tdag,4648,11.7759,11.7759,473.9913,0.2522,29
+git.horaedb.tdag,6216,8.7304,8.7304, 103.7858,0.0044,5
+git.incubator-hivemall.tdag,4172,10.8811,10.8811,259.5870,0.2105,52
+git.incubator-livy.tdag,2155,8.7795,8.7795,56.8097,0.0000,0
+git.incubator-pagespeed-ngx.tdag,7399,8.7112,8.7112,76.5525,0.0749,35
+git.incubator-teaclave.tdag,2005,8.1339,8.1339,72.2802,0.0000,0
+git.incubator-toree.tdag,1627,10.0863,10.0863,96.8182,0.0000,0
+git.incubator-wayang.tdag,3120,10.8737,10.8737,361.2791,0.0000,0
+git.sdap-ingester.tdag,688,7.6640,7.6640,44.4660,0.0000,0
+git.sedona.tdag,8139,10.4216,10.4216,238.1497,0.0407,53
+git.WSL.tdag,840,8.3822,8.3822,94.4330,0.0000,0
