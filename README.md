@@ -13,11 +13,11 @@ La deuxième étape du stage a été de regarder s'il existe des caractérisitiq
 ## 2. Documents et résultats disponibles
 
 Dans ce dépôt, vous avez accès à cinq notebook qui compilent par thème les différentes analyses sur les graphes :
-- Stats_structure_graphes contient les premières analyses sur les enfants et parents des noeuds des graphes ainsi que la proportion de noeuds dans la branche main.
-- Loi_geom est une analyse approfondie sur une caractéristique des enfants d'un noeud : la présence d'une loi géométrique sur les fréquences de noeuds à $e$ enfants.
-- Largeur_graphes regarde la largeur maximale et l'évolution de la largeur des graphes en terme de timestamps.
-- Graphes_gen s'intéresse à des modèles simplifiés de génération de graphe et aux différences avec les graphe de projet réels.
-- Git-Golden_Bisect contient le comparaison de la complexité moyenne des algorithmes de Git et Golden Bisect.
+- **Stats_structure_graphes** contient les premières analyses sur les enfants et parents des noeuds des graphes ainsi que la proportion de noeuds dans la branche main.
+- **Loi_geom** est une analyse approfondie sur une caractéristique des enfants d'un noeud : la présence d'une loi géométrique sur les fréquences de noeuds à $e$ enfants.
+- **Largeur_graphes** regarde la largeur maximale et l'évolution de la largeur des graphes en terme de timestamps.
+- **Graphes_gen** s'intéresse à des modèles simplifiés de génération de graphe et aux différences avec les graphe de projet réels.
+- **Git-Golden_Bisect** contient la comparaison de la complexité moyenne des algorithmes de Git et Golden Bisect.
 
 ## Références
 
