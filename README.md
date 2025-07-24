@@ -32,7 +32,7 @@ Pour réaliser les différentes analyses, j'ai utilisé  110 graphes issus de pr
 Chaque projet a été converti en trois fichiers :
 - Un fichier **.tdag** qui contient la structure du graphe avec, pour chaque ligne, l'identifiant d'un nœud suivi des identifiants de ses parents (s'il n'y en a aucun, alors le nœud n'a pas de parent). De plus les nœuds sont dans l'ordre topologique.
 - Un fichier **.main**, qui contient, un nœud par ligne, les nœuds composant la branche principale (ou main) du projet, dans leur ordre d’apparition.
-- Un fichier **.ts** contenant à chaque ligne, un nœud et son timestamp, c'est-à-dire la date à laquelle il a été créé. Chaque timestamp est un entier représentant le nombre de secondes écoulées depuis le 1er janvier 1970.
+- Un fichier **.tslog** contenant à chaque ligne, un nœud et son timestamp, c'est-à-dire la date à laquelle il a été créé. Chaque timestamp est un entier représentant le nombre de secondes écoulées depuis le 1er janvier 1970.
 
 Projets utilisés : 
 | Noms 1 | Noms 2 | Noms 3 |
