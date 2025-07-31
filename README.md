@@ -19,6 +19,10 @@ Dans ce dépôt, vous avez accès à cinq notebook qui compilent par thème les 
 - **Graphes_gen** s'intéresse à des modèles simplifiés de génération de graphe et aux différences avec les graphe de projet réels.
 - **Git-Golden_Bisect** contient la comparaison de la complexité moyenne des algorithmes de Git et Golden Bisect.
 
+## 3. Ordre de lecture
+
+Il n'y a pas d'ordre de lecture strict mais le mieux est de lire le notebook **Graphes_gen** en dernier et les autres avant afin de prendre connaissance des caractéristiques de graphes de projets GitHub avant la comparaison avec les graphes générés.
+
 ## Références
 
 **Golden Bisect** :
