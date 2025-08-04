@@ -38,6 +38,12 @@ Chaque projet a été converti en trois fichiers :
 - Un fichier **.main**, qui contient, un nœud par ligne, les nœuds composant la branche principale (ou main) du projet, dans leur ordre d’apparition.
 - Un fichier **.tslog** contenant à chaque ligne, un nœud et son timestamp, c'est-à-dire la date à laquelle il a été créé. Chaque timestamp est un entier représentant le nombre de secondes écoulées depuis le 1er janvier 1970.
 
+Obtenir les fichiers avec les commandes git :
+- git clone --mirror dépôt (ici mirror permet de prendre toutes les branches)
+- git log --pretty=format:"%H %P" --topo-order --reverse > graphe_commits.tdag
+- git log --pretty=format:"%H %ci" > graphe_commits.tslog
+- git rev-list --first-parent main > graphe_commits.main (git rev-list --first-parent --reverse main pour inverser l'ordre)
+
 Projets utilisés : 
 | Noms 1 | Noms 2 | Noms 3 |
 |-------|-------|-------|
